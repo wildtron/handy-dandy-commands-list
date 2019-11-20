@@ -1,4 +1,4 @@
-Sherwin's Handy Dandy Commands List (SHDCL)
+wildtron's Handy Dandy Commands List 
 ---
 
 git
